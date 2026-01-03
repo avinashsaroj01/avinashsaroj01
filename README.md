@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **avinashsaroj.sde@gmail.com**
 
-- 📄 Know about my experiences [Resume available on request](Resume available on request)
-
 - ⚡ Fun fact **I enjoy turning complex problems into clean, simple UI ✨**
 
 <h3 align="left">Connect with me:</h3>
