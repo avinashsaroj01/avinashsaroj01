@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **avinashsaroj.sde@gmail.com**
 
-- ⚡ Fun fact **I enjoy turning complex problems into clean, simple UI ✨**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vibeincode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vibeincode" height="30" width="40" /></a>
