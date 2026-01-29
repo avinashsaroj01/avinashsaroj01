@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [E-Kart](https://github.com/avinashsaroj01/E-Kart)
 
-- 🌱 I’m currently learning **Artificial Intelligence & practical AI integration in web apps**
+- 🌱 learning **Artificial Intelligence & practical AI integration in web apps**
 
 - 👨‍💻 All of my projects are available at [https://latest-portfolio-cbv3.vercel.app/](https://latest-portfolio-cbv3.vercel.app/)
 
